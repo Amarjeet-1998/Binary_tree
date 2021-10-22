@@ -84,3 +84,13 @@ bt.insertNode('F')
 print("\nBinary tree after insertion: ")
 #Binary after inserting nodes  
 bt.inorderTraversal(bt.root)
+
+OUTPUT
+Binary tree after insertion: 
+A 
+Binary tree after insertion: 
+B A C 
+Binary tree after insertion: 
+D B E A C 
+Binary tree after insertion: 
+D B E A F C
